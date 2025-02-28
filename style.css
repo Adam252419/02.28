@@ -1,0 +1,21 @@
+header{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: gray;
+
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    
+    
+}
+a{
+    margin: 5px solid white;
+    border: 5px;
+    padding: 5px;
+}
